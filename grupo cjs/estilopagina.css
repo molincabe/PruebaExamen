@@ -1,0 +1,49 @@
+img{
+    width:150px;
+    border-radius:50%;
+    
+  }
+  h1{
+    text-align:center;
+    
+  }
+  nav#menu{
+    display:flex;
+    justify-content:center;
+    background-color:#F0BF4C;
+      
+  }
+  nav#menu a{
+    margin:20px;
+    color:#363432;
+    text-decoration:none;
+    transition:0.15s;
+    
+  }
+  nav#menu a:hover{
+    background-color:#F0941F;
+    margin:0px;
+    padding:20px;
+    
+  }
+  Table.T1{
+    font-size:25px;
+    border:solid 2px black;
+    border-collapse:collapse;
+    
+  }
+  Table th{
+    border:solid 2px black;
+  }
+  Table th.TH1{
+    font-size:15px;
+    padding:6px;
+    text-align:center;
+  }
+  Table.T2{
+    font-size:25px;
+    border:solid 2px black;
+    border-collapse:collapse;
+    margin-top:5%;
+  }
+  
